@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 📙  一只正在学习成长的移动端攻城狮🦁
-- 📫  [superfly1106@gmail.com](smtp://superfly1106@gmail.com)
+- 📫  [superfly1106@gmail.com](mailto:superfly1106@gmail.com)
 
 
 迷茫中......
